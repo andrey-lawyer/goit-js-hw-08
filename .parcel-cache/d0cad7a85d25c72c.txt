@@ -35,7 +35,7 @@
 92C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\weak-lru-cache\tests\benchmark.js133117887201644207 0
 73C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\events133117887211800693 1
 76C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\@msgpackr-extract133117973380663058 1
-56C:\Users\admin\Documents\GitHub\goit-js-hw-08\.gitignore133117667256239846 0
+56C:\Users\admin\Documents\GitHub\goit-js-hw-08\.gitignore133118584533863074 0
 98C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\csso\lib\restructure\6-restructBlock.js133117887207625391 0
 72C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\lmdb\level.js133117887225471076 0
 75C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo.js133117887222979594 0
@@ -86,7 +86,7 @@
 90C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TC.js133117887238672497 0
 63C:\Users\admin\Documents\GitHub\goit-js-hw-08\package-lock.json133117973381710430 0
 96C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\svgo\lib\svgo\css-select-adapter.d.ts133117887223259938 0
-58C:\Users\admin\Documents\GitHub\goit-js-hw-08\package.json133117973381740342 0
+58C:\Users\admin\Documents\GitHub\goit-js-hw-08\package.json133118539936267429 0
 95C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\css-tree\lib\lexer\generic-urange.js133117887220534954 0
 92C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\ime.js133117887231931684 0
 75C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\@parcel\core\src133117887227392182 1
@@ -109,7 +109,7 @@
 92C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\posthtml-expressions\lib\index.js133117887204925637 0
 115C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133117887237445023 0
 79C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\escape-string-regexp133117887203572447 1
-55C:\Users\admin\Documents\GitHub\goit-js-hw-08\README.md133117667256239846 0
+55C:\Users\admin\Documents\GitHub\goit-js-hw-08\README.md133118582884777213 0
 90C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\SO.js133117887238075361 0
 97C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\@nodelib\fs.walk\out\providers\sync.js133117887211298799 0
 90C:\Users\admin\Documents\GitHub\goit-js-hw-08\node_modules\fast-glob\out\readers\reader.js133117887214783948 0
